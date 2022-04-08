@@ -424,11 +424,11 @@ li {
 
 /* ------------ responsive ------------*/
 @media screen and (max-width:1200px) {
-  .padding-1 {
+  .main__section-padding-1 {
     padding: 80px 15%;
   }
   
-  .padding-2 {
+  .main__section-padding-2 {
     padding: 40px 12%;
   }
 
@@ -447,11 +447,11 @@ li {
 }
 
 @media screen and (max-width:870px) {
-  .padding-1 {
+  .main__section-padding-1 {
     padding: 80px 10%;
   }
   
-  .padding-2 {
+  .main__section-padding-2 {
     padding: 40px 8%;
   }
 
